@@ -6,7 +6,7 @@ from sklearn.ensemble import RandomForestClassifier
 st.set_page_config(page_title="The Machine Learning App", page_icon="", layout="wide")
 
 st.write("""
-# Simple Iris Flower Prediction App
+# Iris Flower Prediction App
 This app predicts the **Iris flower** type!
 """)
 
